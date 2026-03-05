@@ -1,0 +1,5 @@
+streamlit
+pandas
+smartsheet-python-sdk
+firebase-admin
+google-cloud-firestore
