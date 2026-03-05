@@ -1,7 +1,8 @@
-pandas
-altair<5
+numpy==1.26.4
+pandas==2.2.2
+altair==4.2.2
 openpyxl
-streamlit
+streamlit==1.37.0
 firebase-admin
-smartsheet-python-sdk
+smartsheet-python-sdk==3.0.2
 google-cloud-firestore
