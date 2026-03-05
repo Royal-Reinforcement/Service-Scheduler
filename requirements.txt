@@ -1,4 +1,5 @@
 pandas
+altair<5
 openpyxl
 streamlit
 firebase-admin
