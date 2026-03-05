@@ -1,5 +1,6 @@
-streamlit
 pandas
-smartsheet-python-sdk
+openpyxl
+streamlit
 firebase-admin
+smartsheet-python-sdk
 google-cloud-firestore
